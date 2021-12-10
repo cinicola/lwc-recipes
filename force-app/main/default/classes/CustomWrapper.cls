@@ -14,3 +14,4 @@ public with sharing class CustomWrapper {
     @AuraEnabled
     public List<InnerWrapper> someList { get; set; }
 }
+///////
